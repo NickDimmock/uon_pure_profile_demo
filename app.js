@@ -5,7 +5,8 @@ let headers = {
     bio: "Biography",
     research: "Research Interests",
     teaching: "Teaching Interests",
-    pubs: "Publications"
+    pubs: "Publications",
+    supervision: "Supervision"
 }
 
 let profiles = {
@@ -34,7 +35,8 @@ function loadProfileData(profileFile) {
         photo: false,
         bio: false,
         research: false,
-        teaching: false
+        teaching: false,
+        supervision: false
     }
 
     $.getJSON(profileFile, function(data) {
@@ -56,6 +58,8 @@ function loadProfileData(profileFile) {
                 case "/dk/atira/pure/person/customfields/teaching_interests":
                     person.teaching = pi.value.text[0].value;
                     break;
+                case "/dk/atira/pure/person/customfields/supervision":
+                    person.supervision = pi.value.text[0].value;
             }
         });
         console.log(person);
@@ -71,6 +75,9 @@ function loadProfileData(profileFile) {
         }
         if(person.teaching) {
             document.getElementById("teaching").innerHTML = `<h2>${headers.teaching}</h2>${person.teaching}`;
+        }
+        if(person.supervision) {
+            document.getElementById("supervision").innerHTML = `<h2>${headers.supervision}</h2>${person.supervision}`;
         }
     });
 }
