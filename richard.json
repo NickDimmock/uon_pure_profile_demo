@@ -1,0 +1,506 @@
+{
+    "pureId": 28745,
+    "externalId": "15364",
+    "externalIdSource": "synchronisedUnifiedPerson",
+    "externallyManaged": true,
+    "uuid": "2173552c-c7f8-478a-a720-815fcf70c044",
+    "name": {
+      "firstName": "Richard Geoffrey",
+      "lastName": "Hazenberg"
+    },
+    "orcid": "0000-0002-2178-9157",
+    "employeeStartDate": "2011-09-01T12:00:00.000+0000",
+    "fte": 1,
+    "willTakePhdStudents": true,
+    "isExpert": false,
+    "info": {
+      "createdBy": "sync_user",
+      "createdDate": "2018-11-15T14:17:42.297+0000",
+      "modifiedBy": "sync_user",
+      "modifiedDate": "2020-04-21T14:07:38.088+0000",
+      "portalUrl": "https://pure.northampton.ac.uk/en/persons/2173552c-c7f8-478a-a720-815fcf70c044",
+      "prettyURLIdentifiers": [
+        "richard-hazenberg"
+      ]
+    },
+    "visibility": {
+      "key": "FREE",
+      "value": {
+        "formatted": false,
+        "text": [
+          {
+            "locale": "en_GB",
+            "value": "Public - No restriction"
+          }
+        ]
+      }
+    },
+    "nameVariants": [
+      {
+        "pureId": 28748,
+        "externalId": "knownas-15364",
+        "externalIdSource": "synchronisedUnifiedPerson",
+        "externallyManaged": true,
+        "name": {
+          "firstName": "Richard",
+          "lastName": "Hazenberg"
+        },
+        "type": {
+          "pureId": 4916,
+          "uri": "/dk/atira/pure/person/names/knownas",
+          "term": {
+            "formatted": false,
+            "text": [
+              {
+                "locale": "en_GB",
+                "value": "Known as name"
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "titles": [
+      {
+        "pureId": 44026,
+        "externalId": "title-15364",
+        "externalIdSource": "synchronisedUnifiedPerson",
+        "externallyManaged": true,
+        "value": {
+          "formatted": false,
+          "text": [
+            {
+              "locale": "en_GB",
+              "value": "Prof"
+            }
+          ]
+        },
+        "type": {
+          "pureId": 4906,
+          "uri": "/dk/atira/pure/person/titles/designation",
+          "term": {
+            "formatted": false,
+            "text": [
+              {
+                "locale": "en_GB",
+                "value": "Designation"
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "ids": [
+      {
+        "pureId": 44025,
+        "externalId": "15364",
+        "externalIdSource": "synchronisedUnifiedPerson",
+        "externallyManaged": true,
+        "value": {
+          "formatted": false,
+          "value": "employee-15364"
+        },
+        "type": {
+          "pureId": 4924,
+          "uri": "/dk/atira/pure/person/personsources/employee",
+          "term": {
+            "formatted": false,
+            "text": [
+              {
+                "locale": "en_GB",
+                "value": "Employee ID"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "pureId": 4217072,
+        "value": {
+          "formatted": false,
+          "value": "55637968300"
+        },
+        "type": {
+          "pureId": 4926,
+          "uri": "/dk/atira/pure/person/personsources/scopusauthor",
+          "term": {
+            "formatted": false,
+            "text": [
+              {
+                "locale": "en_GB",
+                "value": "Scopus Author ID"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "pureId": 14522678,
+        "externalId": "0910270153642",
+        "externalIdSource": "synchronisedUnifiedPerson",
+        "externallyManaged": true,
+        "value": {
+          "formatted": false,
+          "value": "0910270153642"
+        },
+        "type": {
+          "pureId": 4932,
+          "uri": "/dk/atira/pure/person/personsources/hesastaff",
+          "term": {
+            "formatted": false,
+            "text": [
+              {
+                "locale": "en_GB",
+                "value": "HESA staff ID"
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "profilePhotos": [
+      {
+        "pureId": 4334706,
+        "url": "https://pure.northampton.ac.uk/ws/files/4334706/RH_Pure_Pic.jpg",
+        "filename": "RH_Pure_Pic.jpg",
+        "mimetype": "image/jpeg",
+        "size": 56104,
+        "type": {
+          "pureId": 4940,
+          "uri": "/dk/atira/pure/person/personfiles/portrait",
+          "term": {
+            "formatted": false,
+            "text": [
+              {
+                "locale": "en_GB",
+                "value": "Portrait"
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "links": [
+      {
+        "pureId": 4329808,
+        "url": "https://www.linkedin.com/in/dr-richard-hazenberg-91504259/",
+        "description": {
+          "formatted": false,
+          "text": [
+            {
+              "locale": "en_GB",
+              "value": "LinkedIn Profile"
+            }
+          ]
+        },
+        "linkType": {
+          "pureId": 4946,
+          "uri": "/dk/atira/pure/links/person/linkedin",
+          "term": {
+            "formatted": false,
+            "text": [
+              {
+                "locale": "en_GB",
+                "value": "LinkedIn"
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "profileInformations": [
+      {
+        "pureId": 4393047,
+        "value": {
+          "formatted": true,
+          "text": [
+            {
+              "locale": "en_GB",
+              "value": "<p><strong><span>Professor Hazenberg </span></strong><span>(BA MA PhD) </span><span>is the Director</span><span> and Research Leader of the Institute for Social Innovation and Impact at the University of Northampton. </span><span>He has contributed to international/national government policy through papers, conferences and roundtable meetings (including for the European Commission; OECD; Cabinet Office; and HM Treasury). </span><span>Professor Hazenberg is on the editorial board of the Social Enterprise Journal and is a reviewer for a number of international peer-review journals. Professor Hazenberg is the University’s leading researcher for social innovation and impact.</span></p>"
+            }
+          ]
+        },
+        "type": {
+          "pureId": 152987,
+          "uri": "/dk/atira/pure/person/customfields/biography",
+          "term": {
+            "formatted": false,
+            "text": [
+              {
+                "locale": "en_GB",
+                "value": "Biography"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "pureId": 4393048,
+        "value": {
+          "formatted": true,
+          "text": [
+            {
+              "locale": "en_GB",
+              "value": "<p>Richard has research interests in the areas of social innovation, social entrepreneurship, social finance, public service innovation, social ecosystems and social impact measurement. </p>"
+            }
+          ]
+        },
+        "type": {
+          "pureId": 1281,
+          "uri": "/dk/atira/pure/person/customfields/researchinterests",
+          "term": {
+            "formatted": false,
+            "text": [
+              {
+                "locale": "en_GB",
+                "value": "Research Interests"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "pureId": 290439,
+        "value": {
+          "formatted": true,
+          "text": [
+            {
+              "locale": "en_GB",
+              "value": "<p><em>Wendy Bannerman; Education, Children and Young People</em></p>\n<p>Creating the principles of good practice for improving life chances and enhancing employability for young people leaving care to support them towards independence in the UK and internationally.</p>\n<p><em>Oanh Tu Cao; Business</em></p>\n<p>The growth of 'social value' in public service delivery in the United Kingdom: Policy implications for Vietnam.</p>\n<p><em>Frances Hudson; Marketing and Entrepreneurship</em></p>\n<p>Transforming Lives, Inspiring Change: Investigating the social impact of university access strategies and approaches.</p>\n<p><em>Tracey Lynne Latham-Green; Marketing and Entrepreneurship</em></p>\n<p>What is the social impact of driven game shooting?</p>\n<p><em>Louise Atkinson; Business</em></p>\n<p><span>The Role of Community Influences on Socially Responsible Activity within SMEs</span></p>\n<p><em>Lee Whitehead; Business</em></p>\n<p>Social Impact Investment - a best-practice methodology for commercial and public sector investment into social impact products delivered via the VCSE (Voluntary, Community and Social Enterprise sector) in the UK.</p>\n<p><em>Susan Palmer-Hill; Health (DBA)</em></p>\n<p>A case study to investigate the innovation culture within one NHS trust following the introduction of an innovation strategy.</p>\n<p><em>Tuan Anh Dinh</em></p>\n<p>Social Innovation in the field of Education Disadvantage Reduction: A study of the mechanism leading to social change and social impact measurement.</p>\n<p><em>Emma Etuk</em></p>\n<p>Education and training of nurse practitioners in integrated sexual and reproductive healthcare: a qualitative study exploring nurse practitioners’ perspectives on integrated clinics.</p>\n<p><em>Tuyen Thanh Le</em></p>\n<p>Social impact of UNESCO Biosphere Reserves: The case-study of Cat Ba Island, Vietnam</p>\n<p><em>Claire Renwick</em></p>\n<p>Towards a Sustainable Social Enterprise Ecosystem: multi-level involvement and strategies</p>\n<p><em>Michael Maher</em></p>\n<p>Collective Action in Transitioning States: A study of social enterprises</p>"
+            }
+          ]
+        },
+        "type": {
+          "pureId": 284844,
+          "uri": "/dk/atira/pure/person/customfields/supervision",
+          "term": {
+            "formatted": false,
+            "text": [
+              {
+                "locale": "en_GB",
+                "value": "Supervision"
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "staffOrganisationAssociations": [
+      {
+        "pureId": 6910600,
+        "externalId": "15364-SEDSI-2019-09-01",
+        "externalIdSource": "synchronisedUnifiedPerson",
+        "externallyManaged": true,
+        "person": {
+          "uuid": "2173552c-c7f8-478a-a720-815fcf70c044",
+          "link": {
+            "ref": "content",
+            "href": "https://pure.northampton.ac.uk/ws/api/517/persons/2173552c-c7f8-478a-a720-815fcf70c044"
+          },
+          "externalId": "15364",
+          "externalIdSource": "synchronisedUnifiedPerson",
+          "externallyManaged": true,
+          "name": {
+            "formatted": false,
+            "text": [
+              {
+                "value": "Richard Hazenberg"
+              }
+            ]
+          }
+        },
+        "period": {
+          "startDate": "2019-09-01T12:00:00.000+0000",
+          "endDate": "2099-12-31T12:00:00.000+0000"
+        },
+        "isPrimaryAssociation": true,
+        "fte": 1,
+        "organisationalUnit": {
+          "uuid": "b1a03fbd-38aa-4cfa-951c-c75338d24062",
+          "link": {
+            "ref": "content",
+            "href": "https://pure.northampton.ac.uk/ws/api/517/organisational-units/b1a03fbd-38aa-4cfa-951c-c75338d24062"
+          },
+          "externalId": "SEDSI",
+          "externalIdSource": "synchronisedUnifiedOrganisation",
+          "externallyManaged": true,
+          "name": {
+            "formatted": false,
+            "text": [
+              {
+                "locale": "en_GB",
+                "value": "Institute for Social Innovation and Impact"
+              }
+            ]
+          },
+          "type": {
+            "pureId": 1100,
+            "uri": "/dk/atira/pure/organisation/organisationtypes/organisation/department",
+            "term": {
+              "formatted": false,
+              "text": [
+                {
+                  "locale": "en_GB",
+                  "value": "Department"
+                }
+              ]
+            }
+          }
+        },
+        "staffType": {
+          "pureId": 5002,
+          "uri": "/dk/atira/pure/person/personstafftype/academic",
+          "term": {
+            "formatted": false,
+            "text": [
+              {
+                "locale": "en_GB",
+                "value": "Academic"
+              }
+            ]
+          }
+        },
+        "jobDescription": {
+          "formatted": false,
+          "text": [
+            {
+              "locale": "en_GB",
+              "value": "Professor of Social Innovation"
+            }
+          ]
+        },
+        "emails": [
+          {
+            "pureId": 6910601,
+            "externalId": "15364-SEDSI-richard.hazenberg@northampton.ac.uk",
+            "externalIdSource": "synchronisedUnifiedPerson",
+            "externallyManaged": true,
+            "value": {
+              "formatted": false,
+              "value": "richard.hazenberg@northampton.ac.uk"
+            },
+            "type": {
+              "pureId": 4986,
+              "uri": "/dk/atira/pure/person/personemailtype/email",
+              "term": {
+                "formatted": false,
+                "text": [
+                  {
+                    "locale": "en_GB",
+                    "value": "Email"
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      },
+      {
+        "pureId": 40362,
+        "externalId": "15364-SEDSI-2018-09-01",
+        "externalIdSource": "synchronisedUnifiedPerson",
+        "person": {
+          "uuid": "2173552c-c7f8-478a-a720-815fcf70c044",
+          "link": {
+            "ref": "content",
+            "href": "https://pure.northampton.ac.uk/ws/api/517/persons/2173552c-c7f8-478a-a720-815fcf70c044"
+          },
+          "externalId": "15364",
+          "externalIdSource": "synchronisedUnifiedPerson",
+          "externallyManaged": true,
+          "name": {
+            "formatted": false,
+            "text": [
+              {
+                "value": "Richard Hazenberg"
+              }
+            ]
+          }
+        },
+        "period": {
+          "startDate": "2018-09-01T12:00:00.000+0000",
+          "endDate": "2019-09-05T05:00:33.541+0000"
+        },
+        "isPrimaryAssociation": false,
+        "fte": 1,
+        "organisationalUnit": {
+          "uuid": "b1a03fbd-38aa-4cfa-951c-c75338d24062",
+          "link": {
+            "ref": "content",
+            "href": "https://pure.northampton.ac.uk/ws/api/517/organisational-units/b1a03fbd-38aa-4cfa-951c-c75338d24062"
+          },
+          "externalId": "SEDSI",
+          "externalIdSource": "synchronisedUnifiedOrganisation",
+          "externallyManaged": true,
+          "name": {
+            "formatted": false,
+            "text": [
+              {
+                "locale": "en_GB",
+                "value": "Institute for Social Innovation and Impact"
+              }
+            ]
+          },
+          "type": {
+            "pureId": 1100,
+            "uri": "/dk/atira/pure/organisation/organisationtypes/organisation/department",
+            "term": {
+              "formatted": false,
+              "text": [
+                {
+                  "locale": "en_GB",
+                  "value": "Department"
+                }
+              ]
+            }
+          }
+        },
+        "staffType": {
+          "pureId": 5002,
+          "uri": "/dk/atira/pure/person/personstafftype/academic",
+          "term": {
+            "formatted": false,
+            "text": [
+              {
+                "locale": "en_GB",
+                "value": "Academic"
+              }
+            ]
+          }
+        },
+        "jobDescription": {
+          "formatted": false,
+          "text": [
+            {
+              "locale": "en_GB",
+              "value": "Professor of Social Innovation"
+            }
+          ]
+        },
+        "emails": [
+          {
+            "pureId": 44029,
+            "externalId": "15364-SEDSI-richard.hazenberg@northampton.ac.uk",
+            "externalIdSource": "synchronisedUnifiedPerson",
+            "value": {
+              "formatted": false,
+              "value": "richard.hazenberg@northampton.ac.uk"
+            },
+            "type": {
+              "pureId": 4986,
+              "uri": "/dk/atira/pure/person/personemailtype/email",
+              "term": {
+                "formatted": false,
+                "text": [
+                  {
+                    "locale": "en_GB",
+                    "value": "Email"
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    ]
+  }

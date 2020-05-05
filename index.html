@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <p>Pure API / RSS demo: Profile information uses Pure API JSON data, publications use Pure outputs RSS feed. Data sources are cached for this demo.</p>
+    <select id="profilePicker"></select>
+    <div id="profile">
+        <h1 id="name"></h1>
+        <div id="job"></div>
+        <div id="email"></div>
+        <div id="photo"></div>
+        <div id="bio"></div>
+        <div id="research"></div>
+        <div id="teaching"></div>
+        <div id="publications"></div>
+    </div>
+    <script src='//cdnjs.cloudflare.com/ajax/libs/jquery/3.5.0/jquery.min.js'></script>
+    <script src='//cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.15/lodash.min.js'></script>
+    <script src="app.js"></script>
+</body>
+</html>

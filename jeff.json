@@ -1,0 +1,592 @@
+{
+    "pureId": 28444,
+    "externalId": "1973",
+    "externalIdSource": "synchronisedUnifiedPerson",
+    "externallyManaged": true,
+    "uuid": "0255be2d-84aa-47f6-8a0c-74d34ecdbab4",
+    "name": {
+      "firstName": "Jeff",
+      "lastName": "Ollerton"
+    },
+    "orcid": "0000-0002-0887-8235",
+    "employeeStartDate": "2005-09-01T12:00:00.000+0000",
+    "fte": 1,
+    "willTakePhdStudents": true,
+    "isExpert": false,
+    "info": {
+      "createdBy": "sync_user",
+      "createdDate": "2018-11-15T14:17:41.443+0000",
+      "modifiedBy": "sync_user",
+      "modifiedDate": "2020-04-21T14:07:25.789+0000",
+      "portalUrl": "https://pure.northampton.ac.uk/en/persons/0255be2d-84aa-47f6-8a0c-74d34ecdbab4",
+      "prettyURLIdentifiers": [
+        "jeff-ollerton"
+      ]
+    },
+    "visibility": {
+      "key": "FREE",
+      "value": {
+        "formatted": false,
+        "text": [
+          {
+            "locale": "en_GB",
+            "value": "Public - No restriction"
+          }
+        ]
+      }
+    },
+    "nameVariants": [
+      {
+        "pureId": 28448,
+        "externalId": "knownas-1973",
+        "externalIdSource": "synchronisedUnifiedPerson",
+        "externallyManaged": true,
+        "name": {
+          "firstName": "Jeff",
+          "lastName": "Ollerton"
+        },
+        "type": {
+          "pureId": 4916,
+          "uri": "/dk/atira/pure/person/names/knownas",
+          "term": {
+            "formatted": false,
+            "text": [
+              {
+                "locale": "en_GB",
+                "value": "Known as name"
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "titles": [
+      {
+        "pureId": 40948,
+        "externalId": "title-1973",
+        "externalIdSource": "synchronisedUnifiedPerson",
+        "externallyManaged": true,
+        "value": {
+          "formatted": false,
+          "text": [
+            {
+              "locale": "en_GB",
+              "value": "Prof"
+            }
+          ]
+        },
+        "type": {
+          "pureId": 4906,
+          "uri": "/dk/atira/pure/person/titles/designation",
+          "term": {
+            "formatted": false,
+            "text": [
+              {
+                "locale": "en_GB",
+                "value": "Designation"
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "ids": [
+      {
+        "pureId": 40947,
+        "externalId": "1973",
+        "externalIdSource": "synchronisedUnifiedPerson",
+        "externallyManaged": true,
+        "value": {
+          "formatted": false,
+          "value": "employee-1973"
+        },
+        "type": {
+          "pureId": 4924,
+          "uri": "/dk/atira/pure/person/personsources/employee",
+          "term": {
+            "formatted": false,
+            "text": [
+              {
+                "locale": "en_GB",
+                "value": "Employee ID"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "pureId": 4335229,
+        "value": {
+          "formatted": false,
+          "value": "6701637825"
+        },
+        "type": {
+          "pureId": 4926,
+          "uri": "/dk/atira/pure/person/personsources/scopusauthor",
+          "term": {
+            "formatted": false,
+            "text": [
+              {
+                "locale": "en_GB",
+                "value": "Scopus Author ID"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "pureId": 14522096,
+        "externalId": "9510272004860",
+        "externalIdSource": "synchronisedUnifiedPerson",
+        "externallyManaged": true,
+        "value": {
+          "formatted": false,
+          "value": "9510272004860"
+        },
+        "type": {
+          "pureId": 4932,
+          "uri": "/dk/atira/pure/person/personsources/hesastaff",
+          "term": {
+            "formatted": false,
+            "text": [
+              {
+                "locale": "en_GB",
+                "value": "HESA staff ID"
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "profilePhotos": [
+      {
+        "pureId": 4187753,
+        "url": "https://pure.northampton.ac.uk/ws/files/4187753/IBC_image.jpg",
+        "filename": "IBC_image.jpg",
+        "mimetype": "image/jpeg",
+        "size": 27297,
+        "type": {
+          "pureId": 4940,
+          "uri": "/dk/atira/pure/person/personfiles/portrait",
+          "term": {
+            "formatted": false,
+            "text": [
+              {
+                "locale": "en_GB",
+                "value": "Portrait"
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "links": [
+      {
+        "pureId": 4187841,
+        "url": "https://jeffollerton.wordpress.com/",
+        "description": {
+          "formatted": false,
+          "text": [
+            {
+              "locale": "en_GB",
+              "value": "Personal blog"
+            }
+          ]
+        }
+      }
+    ],
+    "profileInformations": [
+      {
+        "pureId": 176401,
+        "value": {
+          "formatted": true,
+          "text": [
+            {
+              "locale": "en_GB",
+              "value": "<p><span>Mutualistic interactions, in which all participants benefit from the relationship, are the main focus of my research interests. Mutualisms are hugely important ecological relationships that play key roles in determining community structure and ecosystem function. Jeff’s research involves field, laboratory and theoretical investigations of the ecology, evolution and conservation of mutualisms, with a particular emphasis on plant-pollinator relationships, plant reproductive biology, and the evolution of flowers. As a member of the Landscape and Biodiversity Research Group at the University of Northampton, research in the U.K., Australia, Africa, Tenerife and South America has been funded by grants totalling over £100,000, including a NERC award of £30,000 in collaboration with Dr Lars Chittka (Queen Mary College, London), and SITA Environmental Trust funding of two PhD scholarships in collaboration with the SITA Centre for Sustainable Wastes Management at the University of Northampton. Currently supervising three research students at the University of Northampton, having supervised five others to completion in the past five years. Involved in research collaborations with colleagues at the following institutions: University of California, Riverside; University of Bayreuth; University of KwaZulu-Natal; University of Cape Town; National Museums of Scotland; Rothamsted Research (formerly IACR Rothamsted).</span></p>"
+            }
+          ]
+        },
+        "type": {
+          "pureId": 1281,
+          "uri": "/dk/atira/pure/person/customfields/researchinterests",
+          "term": {
+            "formatted": false,
+            "text": [
+              {
+                "locale": "en_GB",
+                "value": "Research Interests"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "pureId": 370334,
+        "value": {
+          "formatted": true,
+          "text": [
+            {
+              "locale": "en_GB",
+              "value": "<p>Current PGRs - </p>\n<p>Mr Chris Mackin – “<em>Evolution of the floral phenotypes of invasive plant species</em>” (current – in collaboration with Dr Maria Clara Castellanos and Prof. Dave Goulson, and funded by, University of Sussex)</p>\n<p> </p>\n<p>Ms Helen Tedds – “<em>Evaluating the exotic pets trade: legal and ethical issues</em>” (current – in collaboration with, and funded by, Moulton College)</p>\n<p> </p>\n<p>Mr Paolo Biella – “<em>Key plant loss in pollination networks and the conservation of hubs</em>” (current - in collaboration with Dr Jan Klecka, and funded by, the Czech Academy of Sciences)</p>\n<p> </p>\n<p>Ms Katia Kouloumprouka-Zacharaki – “<em>Development of hydroponic and LED technologies to optimise production and commercial viability of salad crops</em>” (current – in collaboration with, and funded by, Moulton College)</p>\n<p> </p>\n<p>Ms Luzita Ball – “<em>Urban permaculture and ecosystem services</em>” (current – self funded)</p>\n<p> </p>\n<p>PGRs supervised to completion: </p>\n<p> </p>\n<p>Dr Kathryn Harrold – “<em>Landscape-scale conservation of pollinating insects in the lowland British countryside</em>” (2018 – funded by The University of Northampton)</p>\n<p> </p>\n<p>Dr Muzafar Hussain Sirohi – “<em>Solitary bee diversity in urban landscapes</em>” (2016 – funded by Shah Abdul Latif University, Khairpur, Pakistan)</p>\n<p> </p>\n<p>Dr André Rodrigo Rech – “<em>Spatio-temporal analysis of the pollination and reproductive biology of species of the Doliocarpoide (Dilleniaceae) clade: convergent evolution to a generalist strategy?</em>” (2015 - funded by CAPES and Santander Universities, based at University of Campinas, Brazil, in collaboration with Professor Marlies Sazima)</p>\n<p> </p>\n<p>Dr Hilary Erenler – “<em>The diversity of pollinators in the gardens of large English country houses</em>” (2013 – funded by the Finnis Scott Foundation)</p>\n<p> </p>\n<p>Dr Md Lutfor Rahman – “<em>The potential of restored landfill sites for biodiversity conservation in the UK</em>” (2010 – funded by SITA Environmental Trust)</p>\n<p> </p>\n<p>Dr Sam Tarrant – “<em>The potential of restored landfill sites to support pollinating insects</em>” (2009 – funded by SITA Environmental Trust)</p>\n<p> </p>\n<p>Dr Stella Watts – “<em>Plant-flower visitor interactions in the Sacred Valley of Perú</em>” (2008 – self funded)</p>\n<p> </p>\n<p>Dr Elizabeth Cant –“<em>Do linear features within the landscape influence pollinator movement and plant gene flow?</em>” (2006 – funded by BBSRC in collaboration with Rothamsted Research)</p>\n<p> </p>\n<p>Dr Paul Clarkson – “<em>The ecology of wood ants in fragmented landscapes</em>” (2005 – self funded)</p>\n<p> </p>\n<p>Dr Ruben Alarcon – “<em>The structure of plant-pollinator interactions in montane meadow environments</em>” (2004 – funded by University of California, Riverside, in collaboration with Professor Nick Waser)</p>\n<p> </p>\n<p>Dr Louise Cranmer – “<em>Pollinator use of linear landscape features</em>” (2004 – funded by University of Northampton)</p>"
+            }
+          ]
+        },
+        "type": {
+          "pureId": 284844,
+          "uri": "/dk/atira/pure/person/customfields/supervision",
+          "term": {
+            "formatted": false,
+            "text": [
+              {
+                "locale": "en_GB",
+                "value": "Supervision"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "pureId": 176400,
+        "value": {
+          "formatted": true,
+          "text": [
+            {
+              "locale": "en_GB",
+              "value": "<p>Course leader for BSc (Hons) Biology; Jeff also contributes to the courses BSc Environmental Management, BSc Biological Conservation, BSc Applied Conservation Biology and MSc Environmental Management via teaching on the following modules:</p>\n<ul><li>ENV1002 – Introduction to Ecology</li><li>ENV1012 – Diversity and Adaptation</li><li>ENV1016 – Fundamentals of Environmental Science</li><li>ENV2002 – Field Module</li><li>ENV2015/19 – Overseas Field Course</li><li>ENV2018 – Habitat Ecology and Management</li><li>ENV2103 – Biogeography</li><li>ENV3020 – Plants and Their Environment</li><li>ENV3021 – Biodiversity and Conservation</li><li>ENV4001/10/11 – Research Project modules</li><li>ENVM003 – Applied Project in Environmental Management</li></ul>"
+            }
+          ]
+        },
+        "type": {
+          "pureId": 152989,
+          "uri": "/dk/atira/pure/person/customfields/teaching_interests",
+          "term": {
+            "formatted": false,
+            "text": [
+              {
+                "locale": "en_GB",
+                "value": "Teaching Interests"
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "staffOrganisationAssociations": [
+      {
+        "pureId": 6723486,
+        "externalId": "1973-ASSCI-2016-08-01",
+        "externalIdSource": "synchronisedUnifiedPerson",
+        "externallyManaged": true,
+        "person": {
+          "uuid": "0255be2d-84aa-47f6-8a0c-74d34ecdbab4",
+          "link": {
+            "ref": "content",
+            "href": "https://pure.northampton.ac.uk/ws/api/517/persons/0255be2d-84aa-47f6-8a0c-74d34ecdbab4"
+          },
+          "externalId": "1973",
+          "externalIdSource": "synchronisedUnifiedPerson",
+          "externallyManaged": true,
+          "name": {
+            "formatted": false,
+            "text": [
+              {
+                "value": "Jeff Ollerton"
+              }
+            ]
+          }
+        },
+        "period": {
+          "startDate": "2016-08-01T12:00:00.000+0000",
+          "endDate": "2099-12-31T12:00:00.000+0000"
+        },
+        "isPrimaryAssociation": true,
+        "fte": 1,
+        "organisationalUnit": {
+          "uuid": "3b1a70fb-7992-495c-9744-e87db4d7ac23",
+          "link": {
+            "ref": "content",
+            "href": "https://pure.northampton.ac.uk/ws/api/517/organisational-units/3b1a70fb-7992-495c-9744-e87db4d7ac23"
+          },
+          "externalId": "ASSCI",
+          "externalIdSource": "synchronisedUnifiedOrganisation",
+          "externallyManaged": true,
+          "name": {
+            "formatted": false,
+            "text": [
+              {
+                "locale": "en_GB",
+                "value": "Science"
+              }
+            ]
+          },
+          "type": {
+            "pureId": 1100,
+            "uri": "/dk/atira/pure/organisation/organisationtypes/organisation/department",
+            "term": {
+              "formatted": false,
+              "text": [
+                {
+                  "locale": "en_GB",
+                  "value": "Department"
+                }
+              ]
+            }
+          }
+        },
+        "staffType": {
+          "pureId": 5002,
+          "uri": "/dk/atira/pure/person/personstafftype/academic",
+          "term": {
+            "formatted": false,
+            "text": [
+              {
+                "locale": "en_GB",
+                "value": "Academic"
+              }
+            ]
+          }
+        },
+        "jobDescription": {
+          "formatted": false,
+          "text": [
+            {
+              "locale": "en_GB",
+              "value": "Professor of Biodiversity"
+            }
+          ]
+        },
+        "emails": [
+          {
+            "pureId": 6723487,
+            "externalId": "1973-ASSCI-jeff.ollerton@northampton.ac.uk",
+            "externalIdSource": "synchronisedUnifiedPerson",
+            "externallyManaged": true,
+            "value": {
+              "formatted": false,
+              "value": "jeff.ollerton@northampton.ac.uk"
+            },
+            "type": {
+              "pureId": 4986,
+              "uri": "/dk/atira/pure/person/personemailtype/email",
+              "term": {
+                "formatted": false,
+                "text": [
+                  {
+                    "locale": "en_GB",
+                    "value": "Email"
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      },
+      {
+        "pureId": 7120429,
+        "person": {
+          "uuid": "0255be2d-84aa-47f6-8a0c-74d34ecdbab4",
+          "link": {
+            "ref": "content",
+            "href": "https://pure.northampton.ac.uk/ws/api/517/persons/0255be2d-84aa-47f6-8a0c-74d34ecdbab4"
+          },
+          "externalId": "1973",
+          "externalIdSource": "synchronisedUnifiedPerson",
+          "externallyManaged": true,
+          "name": {
+            "formatted": false,
+            "text": [
+              {
+                "value": "Jeff Ollerton"
+              }
+            ]
+          }
+        },
+        "period": {
+          "startDate": "2005-09-01T12:00:00.000+0000"
+        },
+        "isPrimaryAssociation": false,
+        "employmentType": {
+          "pureId": 1265,
+          "uri": "/dk/atira/pure/person/employmenttypes/academic",
+          "term": {
+            "formatted": false,
+            "text": [
+              {
+                "locale": "en_GB",
+                "value": "Academic"
+              }
+            ]
+          }
+        },
+        "organisationalUnit": {
+          "uuid": "ec3f6f5d-f690-4229-ac5b-902330ca91d9",
+          "link": {
+            "ref": "content",
+            "href": "https://pure.northampton.ac.uk/ws/api/517/organisational-units/ec3f6f5d-f690-4229-ac5b-902330ca91d9"
+          },
+          "name": {
+            "formatted": false,
+            "text": [
+              {
+                "locale": "en_GB",
+                "value": "Environment Research Group"
+              }
+            ]
+          },
+          "type": {
+            "pureId": 1104,
+            "uri": "/dk/atira/pure/organisation/organisationtypes/organisation/research",
+            "term": {
+              "formatted": false,
+              "text": [
+                {
+                  "locale": "en_GB",
+                  "value": "Research Centre"
+                }
+              ]
+            }
+          }
+        },
+        "staffType": {
+          "pureId": 5002,
+          "uri": "/dk/atira/pure/person/personstafftype/academic",
+          "term": {
+            "formatted": false,
+            "text": [
+              {
+                "locale": "en_GB",
+                "value": "Academic"
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "educations": [
+      {
+        "pureId": 176396,
+        "qualification": {
+          "pureId": 5050,
+          "uri": "/dk/atira/pure/personeducation/qualification/doctorate",
+          "term": {
+            "formatted": false,
+            "text": [
+              {
+                "locale": "en_GB",
+                "value": "PhD"
+              }
+            ]
+          }
+        },
+        "projectTitle": {
+          "formatted": false,
+          "text": [
+            {
+              "locale": "en_GB",
+              "value": "Ecology of flowering and fruiting in Lotus corniculatus"
+            }
+          ]
+        },
+        "organisationalUnits": [
+          {
+            "pureId": 176397,
+            "externalOrganisationalUnit": {
+              "uuid": "3c18dfc9-8d32-4f65-bf92-9ecff5f93dce",
+              "link": {
+                "ref": "content",
+                "href": "https://pure.northampton.ac.uk/ws/api/517/external-organisations/3c18dfc9-8d32-4f65-bf92-9ecff5f93dce"
+              },
+              "externalId": "315045",
+              "externalIdSource": "scival",
+              "externallyManaged": true,
+              "name": {
+                "formatted": false,
+                "text": [
+                  {
+                    "locale": "en_GB",
+                    "value": "Oxford Brookes University"
+                  }
+                ]
+              },
+              "type": {
+                "pureId": 13631,
+                "uri": "/dk/atira/pure/ueoexternalorganisation/ueoexternalorganisationtypes/ueoexternalorganisation/academic",
+                "term": {
+                  "formatted": false,
+                  "text": [
+                    {
+                      "locale": "en_GB",
+                      "value": "Academic"
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "pureId": 176398,
+        "qualification": {
+          "pureId": 5046,
+          "uri": "/dk/atira/pure/personeducation/qualification/bachelor",
+          "term": {
+            "formatted": false,
+            "text": [
+              {
+                "locale": "en_GB",
+                "value": "Bachelor"
+              }
+            ]
+          }
+        },
+        "projectTitle": {
+          "formatted": false,
+          "text": [
+            {
+              "locale": "en_GB",
+              "value": "BSc (Hons) Environmental Biology"
+            }
+          ]
+        },
+        "organisationalUnits": [
+          {
+            "pureId": 176399,
+            "externalOrganisationalUnit": {
+              "uuid": "3c18dfc9-8d32-4f65-bf92-9ecff5f93dce",
+              "link": {
+                "ref": "content",
+                "href": "https://pure.northampton.ac.uk/ws/api/517/external-organisations/3c18dfc9-8d32-4f65-bf92-9ecff5f93dce"
+              },
+              "externalId": "315045",
+              "externalIdSource": "scival",
+              "externallyManaged": true,
+              "name": {
+                "formatted": false,
+                "text": [
+                  {
+                    "locale": "en_GB",
+                    "value": "Oxford Brookes University"
+                  }
+                ]
+              },
+              "type": {
+                "pureId": 13631,
+                "uri": "/dk/atira/pure/ueoexternalorganisation/ueoexternalorganisationtypes/ueoexternalorganisation/academic",
+                "term": {
+                  "formatted": false,
+                  "text": [
+                    {
+                      "locale": "en_GB",
+                      "value": "Academic"
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        ]
+      }
+    ]
+  }

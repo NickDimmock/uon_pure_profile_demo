@@ -1,0 +1,611 @@
+{
+    "pureId": 24519,
+    "externalId": "1138",
+    "externalIdSource": "synchronisedUnifiedPerson",
+    "externallyManaged": true,
+    "uuid": "024b45b6-b887-48e2-bd2b-07175368fcc4",
+    "name": {
+        "firstName": "Scott John",
+        "lastName": "Turner"
+    },
+    "orcid": "0000-0003-2735-3220",
+    "employeeStartDate": "2005-09-01T12:00:00.000+0000",
+    "fte": 1.0,
+    "willTakePhdStudents": true,
+    "isExpert": false,
+    "info": {
+        "createdBy": "sync_user",
+        "createdDate": "2018-11-15T14:17:32.164+0000",
+        "modifiedBy": "sync_user",
+        "modifiedDate": "2020-04-21T14:07:20.323+0000",
+        "portalUrl": "https://pure.northampton.ac.uk/en/persons/024b45b6-b887-48e2-bd2b-07175368fcc4",
+        "prettyURLIdentifiers": [
+            "scott-turner"
+        ]
+    },
+    "visibility": {
+        "key": "FREE",
+        "value": {
+            "formatted": false,
+            "text": [
+                {
+                    "locale": "en_GB",
+                    "value": "Public - No restriction"
+                }
+            ]
+        }
+    },
+    "nameVariants": [
+        {
+            "pureId": 24527,
+            "externalId": "knownas-1138",
+            "externalIdSource": "synchronisedUnifiedPerson",
+            "externallyManaged": true,
+            "name": {
+                "firstName": "Scott",
+                "lastName": "Turner"
+            },
+            "type": {
+                "pureId": 4916,
+                "uri": "/dk/atira/pure/person/names/knownas",
+                "term": {
+                    "formatted": false,
+                    "text": [
+                        {
+                            "locale": "en_GB",
+                            "value": "Known as name"
+                        }
+                    ]
+                }
+            }
+        }
+    ],
+    "titles": [
+        {
+            "pureId": 40621,
+            "externalId": "title-1138",
+            "externalIdSource": "synchronisedUnifiedPerson",
+            "externallyManaged": true,
+            "value": {
+                "formatted": false,
+                "text": [
+                    {
+                        "locale": "en_GB",
+                        "value": "Dr"
+                    }
+                ]
+            },
+            "type": {
+                "pureId": 4906,
+                "uri": "/dk/atira/pure/person/titles/designation",
+                "term": {
+                    "formatted": false,
+                    "text": [
+                        {
+                            "locale": "en_GB",
+                            "value": "Designation"
+                        }
+                    ]
+                }
+            }
+        }
+    ],
+    "ids": [
+        {
+            "pureId": 40620,
+            "externalId": "1138",
+            "externalIdSource": "synchronisedUnifiedPerson",
+            "externallyManaged": true,
+            "value": {
+                "formatted": false,
+                "value": "employee-1138"
+            },
+            "type": {
+                "pureId": 4924,
+                "uri": "/dk/atira/pure/person/personsources/employee",
+                "term": {
+                    "formatted": false,
+                    "text": [
+                        {
+                            "locale": "en_GB",
+                            "value": "Employee ID"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "pureId": 4231890,
+            "value": {
+                "formatted": false,
+                "value": "7402275376"
+            },
+            "type": {
+                "pureId": 4926,
+                "uri": "/dk/atira/pure/person/personsources/scopusauthor",
+                "term": {
+                    "formatted": false,
+                    "text": [
+                        {
+                            "locale": "en_GB",
+                            "value": "Scopus Author ID"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "pureId": 14521915,
+            "externalId": "9910279043134",
+            "externalIdSource": "synchronisedUnifiedPerson",
+            "externallyManaged": true,
+            "value": {
+                "formatted": false,
+                "value": "9910279043134"
+            },
+            "type": {
+                "pureId": 4932,
+                "uri": "/dk/atira/pure/person/personsources/hesastaff",
+                "term": {
+                    "formatted": false,
+                    "text": [
+                        {
+                            "locale": "en_GB",
+                            "value": "HESA staff ID"
+                        }
+                    ]
+                }
+            }
+        }
+    ],
+    "profilePhotos": [
+        {
+            "pureId": 5871141,
+            "url": "https://pure.northampton.ac.uk/ws/files/5871141/WIN_20180813_12_27_13_Pro.jpg",
+            "filename": "WIN_20180813_12_27_13_Pro.jpg",
+            "mimetype": "image/jpeg",
+            "size": 205202,
+            "type": {
+                "pureId": 4940,
+                "uri": "/dk/atira/pure/person/personfiles/portrait",
+                "term": {
+                    "formatted": false,
+                    "text": [
+                        {
+                            "locale": "en_GB",
+                            "value": "Portrait"
+                        }
+                    ]
+                }
+            }
+        }
+    ],
+    "links": [
+        {
+            "pureId": 5871145,
+            "url": "https://computingnorthampton.blogspot.com/",
+            "description": {
+                "formatted": false,
+                "text": [
+                    {
+                        "locale": "en_GB",
+                        "value": "Blog"
+                    }
+                ]
+            },
+            "linkType": {
+                "pureId": 4950,
+                "uri": "/dk/atira/pure/links/person/personal",
+                "term": {
+                    "formatted": false,
+                    "text": [
+                        {
+                            "locale": "en_GB",
+                            "value": "Personal"
+                        }
+                    ]
+                }
+            }
+        }
+    ],
+    "profileInformations": [
+        {
+            "pureId": 166176,
+            "value": {
+                "formatted": true,
+                "text": [
+                    {
+                        "locale": "en_GB",
+                        "value": "<p>Dr Turner has worked in the interdisciplinary area of medical technologies, both with industry and academia, as well in teaching and learning within Computing, robotics and artificial intelligence.</p>\n<p>He is also the Deputy Subject Leader in computing and Immersive Technologies, with responsibilities for Research and Postgraduate Courses in computing.</p>"
+                    }
+                ]
+            },
+            "type": {
+                "pureId": 152987,
+                "uri": "/dk/atira/pure/person/customfields/biography",
+                "term": {
+                    "formatted": false,
+                    "text": [
+                        {
+                            "locale": "en_GB",
+                            "value": "Biography"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "pureId": 166178,
+            "value": {
+                "formatted": true,
+                "text": [
+                    {
+                        "locale": "en_GB",
+                        "value": "<p>Dr Turner has been involved with a wide range of interdisciplinary research projects including:</p>\n<ul><li>modelling pain</li><li>neurophysiological signal processing</li><li>AI applied to engineering projects</li><li>STEM outreach work</li><li>modelling of networks</li><li>intelligent traffic management</li><li>sustainability of web resources</li></ul>"
+                    }
+                ]
+            },
+            "type": {
+                "pureId": 1281,
+                "uri": "/dk/atira/pure/person/customfields/researchinterests",
+                "term": {
+                    "formatted": false,
+                    "text": [
+                        {
+                            "locale": "en_GB",
+                            "value": "Research Interests"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "pureId": 289216,
+            "value": {
+                "formatted": true,
+                "text": [
+                    {
+                        "locale": "en_GB",
+                        "value": "<p><em>Marwan\u00a0Al-Dabbagh;\u00a0Computing</em></p>\n<p>Employing VANET Technology to Alleviate Road Congestion in Real Time.</p>\n<p>\u00a0</p>\n<p><em>Liz\u00a0Coulter-Smith;\u00a0Computing</em></p>\n<p>Doctoral Research Project.</p>\n<p>\u00a0</p>\n<p><em>Amina\u00a0Dawood;\u00a0Computing</em></p>\n<p>Computational model to extract human behaviours.</p>\n<p>\u00a0</p>\n<p><em>Emmanuel\u00a0Ofori-Attah;\u00a0Computing</em></p>\n<p>Efficient Techniques for Low Power on-Chip networks for Emerging Multi-core Systems.</p>"
+                    }
+                ]
+            },
+            "type": {
+                "pureId": 284844,
+                "uri": "/dk/atira/pure/person/customfields/supervision",
+                "term": {
+                    "formatted": false,
+                    "text": [
+                        {
+                            "locale": "en_GB",
+                            "value": "Supervision"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "pureId": 166177,
+            "value": {
+                "formatted": true,
+                "text": [
+                    {
+                        "locale": "en_GB",
+                        "value": "<p>Programme Leader for MSc Computing programmes</p>\n<p>Module Leader</p>\n<ul><li>CSYM033 Industry Group Project</li><li>CSYM023 Dissertation</li><li>CSYM015 Intelligent Systems</li><li>CSY3015 Artificial Intelligence Techniques</li><li>CSY1020 Problem-solving and Programming</li></ul>"
+                    }
+                ]
+            },
+            "type": {
+                "pureId": 152989,
+                "uri": "/dk/atira/pure/person/customfields/teaching_interests",
+                "term": {
+                    "formatted": false,
+                    "text": [
+                        {
+                            "locale": "en_GB",
+                            "value": "Teaching Interests"
+                        }
+                    ]
+                }
+            }
+        }
+    ],
+    "staffOrganisationAssociations": [
+        {
+            "pureId": 4266393,
+            "externalId": "1138-ASCOM-2019-01-01",
+            "externalIdSource": "synchronisedUnifiedPerson",
+            "externallyManaged": true,
+            "person": {
+                "uuid": "024b45b6-b887-48e2-bd2b-07175368fcc4",
+                "link": {
+                    "ref": "content",
+                    "href": "https://pure.northampton.ac.uk/ws/api/517/persons/024b45b6-b887-48e2-bd2b-07175368fcc4"
+                },
+                "externalId": "1138",
+                "externalIdSource": "synchronisedUnifiedPerson",
+                "externallyManaged": true,
+                "name": {
+                    "formatted": false,
+                    "text": [
+                        {
+                            "value": "Scott Turner"
+                        }
+                    ]
+                }
+            },
+            "period": {
+                "startDate": "2019-01-01T12:00:00.000+0000",
+                "endDate": "2099-12-31T12:00:00.000+0000"
+            },
+            "isPrimaryAssociation": true,
+            "fte": 1.0,
+            "organisationalUnit": {
+                "uuid": "1b791ad1-5908-4cbb-8c13-3840c745a21e",
+                "link": {
+                    "ref": "content",
+                    "href": "https://pure.northampton.ac.uk/ws/api/517/organisational-units/1b791ad1-5908-4cbb-8c13-3840c745a21e"
+                },
+                "externalId": "ASCOM",
+                "externalIdSource": "synchronisedUnifiedOrganisation",
+                "externallyManaged": true,
+                "name": {
+                    "formatted": false,
+                    "text": [
+                        {
+                            "locale": "en_GB",
+                            "value": "Computing"
+                        }
+                    ]
+                },
+                "type": {
+                    "pureId": 1100,
+                    "uri": "/dk/atira/pure/organisation/organisationtypes/organisation/department",
+                    "term": {
+                        "formatted": false,
+                        "text": [
+                            {
+                                "locale": "en_GB",
+                                "value": "Department"
+                            }
+                        ]
+                    }
+                }
+            },
+            "staffType": {
+                "pureId": 5002,
+                "uri": "/dk/atira/pure/person/personstafftype/academic",
+                "term": {
+                    "formatted": false,
+                    "text": [
+                        {
+                            "locale": "en_GB",
+                            "value": "Academic"
+                        }
+                    ]
+                }
+            },
+            "jobDescription": {
+                "formatted": false,
+                "text": [
+                    {
+                        "locale": "en_GB",
+                        "value": "Principal Lecturer in Widening Participation"
+                    }
+                ]
+            },
+            "emails": [
+                {
+                    "pureId": 4266394,
+                    "externalId": "1138-ASCOM-scott.turner@northampton.ac.uk",
+                    "externalIdSource": "synchronisedUnifiedPerson",
+                    "externallyManaged": true,
+                    "value": {
+                        "formatted": false,
+                        "value": "scott.turner@northampton.ac.uk"
+                    },
+                    "type": {
+                        "pureId": 4986,
+                        "uri": "/dk/atira/pure/person/personemailtype/email",
+                        "term": {
+                            "formatted": false,
+                            "text": [
+                                {
+                                    "locale": "en_GB",
+                                    "value": "Email"
+                                }
+                            ]
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "pureId": 38664,
+            "externalId": "1138-ASCOM-2016-08-01",
+            "externalIdSource": "synchronisedUnifiedPerson",
+            "person": {
+                "uuid": "024b45b6-b887-48e2-bd2b-07175368fcc4",
+                "link": {
+                    "ref": "content",
+                    "href": "https://pure.northampton.ac.uk/ws/api/517/persons/024b45b6-b887-48e2-bd2b-07175368fcc4"
+                },
+                "externalId": "1138",
+                "externalIdSource": "synchronisedUnifiedPerson",
+                "externallyManaged": true,
+                "name": {
+                    "formatted": false,
+                    "text": [
+                        {
+                            "value": "Scott Turner"
+                        }
+                    ]
+                }
+            },
+            "period": {
+                "startDate": "2016-08-01T12:00:00.000+0000",
+                "endDate": "2019-01-02T08:21:59.103+0000"
+            },
+            "isPrimaryAssociation": false,
+            "fte": 1.0,
+            "organisationalUnit": {
+                "uuid": "1b791ad1-5908-4cbb-8c13-3840c745a21e",
+                "link": {
+                    "ref": "content",
+                    "href": "https://pure.northampton.ac.uk/ws/api/517/organisational-units/1b791ad1-5908-4cbb-8c13-3840c745a21e"
+                },
+                "externalId": "ASCOM",
+                "externalIdSource": "synchronisedUnifiedOrganisation",
+                "externallyManaged": true,
+                "name": {
+                    "formatted": false,
+                    "text": [
+                        {
+                            "locale": "en_GB",
+                            "value": "Computing"
+                        }
+                    ]
+                },
+                "type": {
+                    "pureId": 1100,
+                    "uri": "/dk/atira/pure/organisation/organisationtypes/organisation/department",
+                    "term": {
+                        "formatted": false,
+                        "text": [
+                            {
+                                "locale": "en_GB",
+                                "value": "Department"
+                            }
+                        ]
+                    }
+                }
+            },
+            "staffType": {
+                "pureId": 5002,
+                "uri": "/dk/atira/pure/person/personstafftype/academic",
+                "term": {
+                    "formatted": false,
+                    "text": [
+                        {
+                            "locale": "en_GB",
+                            "value": "Academic"
+                        }
+                    ]
+                }
+            },
+            "jobDescription": {
+                "formatted": false,
+                "text": [
+                    {
+                        "locale": "en_GB",
+                        "value": "Associate Professor (Comp. & Imm. Tech)"
+                    }
+                ]
+            },
+            "emails": [
+                {
+                    "pureId": 40622,
+                    "externalId": "1138-ASCOM-scott.turner@northampton.ac.uk",
+                    "externalIdSource": "synchronisedUnifiedPerson",
+                    "value": {
+                        "formatted": false,
+                        "value": "scott.turner@northampton.ac.uk"
+                    },
+                    "type": {
+                        "pureId": 4986,
+                        "uri": "/dk/atira/pure/person/personemailtype/email",
+                        "term": {
+                            "formatted": false,
+                            "text": [
+                                {
+                                    "locale": "en_GB",
+                                    "value": "Email"
+                                }
+                            ]
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "pureId": 7120535,
+            "person": {
+                "uuid": "024b45b6-b887-48e2-bd2b-07175368fcc4",
+                "link": {
+                    "ref": "content",
+                    "href": "https://pure.northampton.ac.uk/ws/api/517/persons/024b45b6-b887-48e2-bd2b-07175368fcc4"
+                },
+                "externalId": "1138",
+                "externalIdSource": "synchronisedUnifiedPerson",
+                "externallyManaged": true,
+                "name": {
+                    "formatted": false,
+                    "text": [
+                        {
+                            "value": "Scott Turner"
+                        }
+                    ]
+                }
+            },
+            "period": {
+                "startDate": "2005-09-01T12:00:00.000+0000"
+            },
+            "isPrimaryAssociation": false,
+            "employmentType": {
+                "pureId": 1265,
+                "uri": "/dk/atira/pure/person/employmenttypes/academic",
+                "term": {
+                    "formatted": false,
+                    "text": [
+                        {
+                            "locale": "en_GB",
+                            "value": "Academic"
+                        }
+                    ]
+                }
+            },
+            "organisationalUnit": {
+                "uuid": "7af49475-d042-4f26-835c-8b6ec723a8a4",
+                "link": {
+                    "ref": "content",
+                    "href": "https://pure.northampton.ac.uk/ws/api/517/organisational-units/7af49475-d042-4f26-835c-8b6ec723a8a4"
+                },
+                "name": {
+                    "formatted": false,
+                    "text": [
+                        {
+                            "locale": "en_GB",
+                            "value": "Science and Technology Research in Pedagogy"
+                        }
+                    ]
+                },
+                "type": {
+                    "pureId": 1104,
+                    "uri": "/dk/atira/pure/organisation/organisationtypes/organisation/research",
+                    "term": {
+                        "formatted": false,
+                        "text": [
+                            {
+                                "locale": "en_GB",
+                                "value": "Research Centre"
+                            }
+                        ]
+                    }
+                }
+            },
+            "staffType": {
+                "pureId": 5002,
+                "uri": "/dk/atira/pure/person/personstafftype/academic",
+                "term": {
+                    "formatted": false,
+                    "text": [
+                        {
+                            "locale": "en_GB",
+                            "value": "Academic"
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
