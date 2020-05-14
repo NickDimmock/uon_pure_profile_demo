@@ -11,6 +11,10 @@ h1 {
 }
 h2 {
     border-bottom: 1px solid #ddd;
+    color: #046db5;
+}
+#profile h2 {
+    display: none;
 }
 #job {
     font-weight: bold;
@@ -21,8 +25,10 @@ h2 {
     margin-bottom: 1em;
 }
 .rssItem {
-    list-style-type: none;
-    margin-bottom: 1em;
+    margin: .5em 1em;
+}
+#publications h3 {
+    margin: 1em 0 .5em 0;
 }
 #pubsLink {
     margin-bottom: 1em;
