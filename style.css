@@ -16,12 +16,22 @@ h2 {
 #profile h2 {
     display: none;
 }
+#photo {
+    margin-bottom: 1em;
+}
 #job {
     font-weight: bold;
-    margin-bottom: 1em;
+    font-size: 1.2em;
     color: #e72276;
 }
+#unit {
+    margin-bottom: .5em;
+    font-weight: bold;
+}
 #email {
+    margin-bottom: 1em;
+}
+#orcid {
     margin-bottom: 1em;
 }
 .rssItem {
@@ -42,4 +52,7 @@ a, a:visited {
 }
 a:hover {
     text-decoration: underline;
+}
+#teaching, #research, #publications {
+    line-height: 1.8;
 }

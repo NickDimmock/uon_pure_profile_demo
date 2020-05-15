@@ -41,7 +41,9 @@ loadProfileData = (profileFile) => {
         photo: false,
         bio: false,
         research: false,
-        teaching: false
+        teaching: false,
+        orcid: false,
+        unit: false
     }
 
     // Use jQuery's getJSON to load the JSON from file:
@@ -54,6 +56,8 @@ loadProfileData = (profileFile) => {
             person.name = `${data.name.firstName} ${data.name.lastName}`;
             person.email = data.staffOrganisationAssociations[0].emails[0].value.value;
             person.job = data.staffOrganisationAssociations[0].jobDescription.text[0].value;
+            person.orcid = data.orcid;
+            person.unit = data.staffOrganisationAssociations[0].organisationalUnit.name.text[0].value;
             if(Array.isArray(data.profilePhotos)) {
                 person.photo = data.profilePhotos[0].url;
             }
@@ -75,6 +79,10 @@ loadProfileData = (profileFile) => {
             document.getElementById("job").innerText = person.job;
             document.getElementById("email").innerHTML = `<a href="mailto:${person.email}">${person.email}</a>`;
             document.getElementById("photo").innerHTML = `<img src=${person.photo}></img>`;
+            document.getElementById("unit").innerText = person.unit;
+            if(person.orcid) {
+                document.getElementById("orcid").innerHTML = `ORCID: <a href="https://orcid.org/${person.orcid}">${person.orcid}</a>`;
+            }
             if(person.bio) {
                 document.getElementById("bio").innerHTML = person.bio;
             }
