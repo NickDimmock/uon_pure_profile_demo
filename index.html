@@ -8,7 +8,12 @@
 </head>
 <body>
     <p>Pure API / RSS demo: Profile information uses Pure API JSON data, publications use Pure outputs RSS feed. Data sources are cached for this demo.</p>
-    <select id="profilePicker"></select>
+    <div id="demoNames">
+        Load a profile:
+        <a href="#" class="nameSwitcher" data-name="Jeff">Jeff</a> /
+        <a href="#" class="nameSwitcher" data-name="Scott">Scott</a> /
+        <a href="#" class="nameSwitcher" data-name="Richard">Richard</a>
+    </div>
     <div id="profile">
         <h1 id="name"></h1>
         <div id="job"></div>
@@ -16,6 +21,7 @@
         <div id="email"></div>
         <div id="photo"></div>
         <div id="bio"></div>
+        <div id="pure"></div>
         <div id="orcid"></div>
         <h2 id="researchHeader">Research Interests</h2>
         <div id="research"></div>

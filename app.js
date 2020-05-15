@@ -43,7 +43,8 @@ loadProfileData = (profileFile) => {
         research: false,
         teaching: false,
         orcid: false,
-        unit: false
+        unit: false,
+        pureURL: false
     }
 
     // Use jQuery's getJSON to load the JSON from file:
@@ -57,6 +58,7 @@ loadProfileData = (profileFile) => {
             person.email = data.staffOrganisationAssociations[0].emails[0].value.value;
             person.job = data.staffOrganisationAssociations[0].jobDescription.text[0].value;
             person.orcid = data.orcid;
+            person.pureURL = data.info.prettyURLIdentifiers;
             person.unit = data.staffOrganisationAssociations[0].organisationalUnit.name.text[0].value;
             if(Array.isArray(data.profilePhotos)) {
                 person.photo = data.profilePhotos[0].url;
@@ -80,6 +82,7 @@ loadProfileData = (profileFile) => {
             document.getElementById("email").innerHTML = `<a href="mailto:${person.email}">${person.email}</a>`;
             document.getElementById("photo").innerHTML = `<img src=${person.photo}></img>`;
             document.getElementById("unit").innerText = person.unit;
+            document.getElementById("pure").innerHTML = `View <a href="https://pure.northampton.ac.uk/en/persons/${person.pureURL}">${person.name}'s profile</a> on Pure, the University's research explorer.`;
             if(person.orcid) {
                 document.getElementById("orcid").innerHTML = `ORCID: <a href="https://orcid.org/${person.orcid}">${person.orcid}</a>`;
             }
@@ -108,6 +111,7 @@ loadRSS = (rssFeed) => {
         .then(str => new window.DOMParser().parseFromString(str, "text/xml"))
         .then(data => {
             let pubsLink = data.querySelector("link").textContent;
+            pubsLink = pubsLink.replace("?format=rss","");
             data.querySelectorAll("item").forEach((i) => {
                 let year = parseInt(i.querySelector("pubDate").textContent.substring(12, 16));
                 let title = i.querySelector("title").textContent;
@@ -154,18 +158,13 @@ switchProfile = (name) => {
     loadRSS(profiles[name].rss);
 }
 
-// Build the profile picker:
-Object.keys(profiles).forEach((profile) => {
-    let pp = document.getElementById("profilePicker");
-    let newOption = document.createElement('option');
-    // create text node to add to option element (opt)
-    newOption.appendChild(document.createTextNode(profiles[profile].name));
-    newOption.value = profiles[profile].name;
-    pp.appendChild(newOption);
-});
-document.getElementById("profilePicker").onchange = function () {
-    switchProfile(this.options[this.selectedIndex].value)
+// Attach event handlers for profile picker:
+let switchers = document.getElementsByClassName("nameSwitcher");
+for (var i = 0; i < switchers.length; i++) {
+    switchers[i].addEventListener("click", function(e){
+        e.preventDefault();
+        switchProfile(this.dataset.name);
+    }, false);
 }
-
 // Kick off with Jeff:
 switchProfile("Jeff");
